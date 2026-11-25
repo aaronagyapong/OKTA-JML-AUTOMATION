@@ -1,3 +1,4 @@
+<img width="1512" height="800" alt="example-1-role-groups" src="https://github.com/user-attachments/assets/73cece0b-0e6a-42ec-96c1-46b7054024a4" />
 # Okta JML Automation (Joiner / Mover / Leaver)
 
 HR-feed-driven identity lifecycle automation for Okta, written in Python. A CSV from the
@@ -84,15 +85,19 @@ Okta evaluates a rule once against all users when it is activated, then again on
 
 #### Screenshot Example 1: Role groups created in Okta
 
-![Example 1 - Role groups](screenshots/example-1-role-groups.jpg)
+
+<img width="1512" height="800" alt="example-1-role-groups" src="https://github.com/user-attachments/assets/f32eeff6-fbb5-4b23-a833-f1e1ef1a7570" />
+
 
 #### Screenshot Example 2: Group rule definition (`department == "IT"` assigns `JML-Role-IT`)
 
-![Example 2 - Group rule definition](screenshots/example-2-group-rule-definition.jpg)
+
+<img width="1512" height="800" alt="example-2-group-rule-definition" src="https://github.com/user-attachments/assets/0fed97f9-d5a2-4f38-9988-ed6536f83fb3" />
+
 
 #### Screenshot Example 3: All three group rules in `Active` state
 
-![Example 3 - Group rules active](screenshots/example-3-group-rules-active.jpg)
+<img width="1512" height="800" alt="example-3-group-rules-active" src="https://github.com/user-attachments/assets/ede5b77a-952c-4cfa-97da-4451c09eb7cf" />
 
 ---
 
@@ -149,15 +154,15 @@ invalid `status` value is rejected before anything is touched.
 
 #### Screenshot Example 4: Day 0. Dry-run, then three joiners created
 
-![Example 4 - Mock Day 0 joiners](screenshots/example-4-mock-day0-joiners.png)
+<img width="1309" height="356" alt="example-4-mock-day0-joiners" src="https://github.com/user-attachments/assets/10519440-a3af-4ab2-bc85-503f68c03ffe" />
 
 #### Screenshot Example 5: Day 1. Mover updated and leaver suspended (stage 1)
 
-![Example 5 - Mock Day 1 mover and leaver stage 1](screenshots/example-5-mock-day1-mover-leaver-stage1.png)
+<img width="1544" height="312" alt="example-5-mock-day1-mover-leaver-stage1" src="https://github.com/user-attachments/assets/6a1e7213-1529-4020-824d-88f998241a42" />
+
 
 #### Screenshot Example 6: Grace period, deactivation (stage 2), and an idempotent re-run
-
-![Example 6 - Mock grace period and deactivation](screenshots/example-6-mock-grace-and-deactivate.png)
+<img width="1146" height="356" alt="example-6-mock-grace-and-deactivate" src="https://github.com/user-attachments/assets/d929b6d9-95db-4ad5-928d-b783666ce8c3" />
 
 ---
 
