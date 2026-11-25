@@ -1,0 +1,4 @@
+employee_id,first_name,last_name,email,department,title,manager_email,status,termination_date
+1001,Dana,Whitfield,dana.whitfield@jml-lab.example.com,IT,Systems Administrator,,active,
+1003,Priya,Raman,priya.raman@jml-lab.example.com,IT,Clinical Systems Analyst,dana.whitfield@jml-lab.example.com,active,
+1004,Tomas,Reyes,tomas.reyes@jml-lab.example.com,IT,Help Desk Analyst,dana.whitfield@jml-lab.example.com,terminated,
